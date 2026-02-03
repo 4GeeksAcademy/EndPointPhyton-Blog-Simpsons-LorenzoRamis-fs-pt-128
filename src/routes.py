@@ -1,5 +1,5 @@
 from flask import Blueprint, jsonify
-from models import db, User, Character, Location 
+from models import db, User, Character
 from sqlalchemy import select
 
 
